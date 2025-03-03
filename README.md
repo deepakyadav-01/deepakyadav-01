@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepakyadav-01
 - 👀 I’m interested in Exploring new technologies and creating impactful things
-- 🌱 I’m currently Working as Intern Software Engineer at Mindfire Solutions
+- 🌱 I’m currently Working as Associate Software Engineer at Mindfire Solutions
 - 💞️ I’m looking to collaborate on MERN Stack projects
 
 <!---
